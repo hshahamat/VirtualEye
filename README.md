@@ -1,5 +1,5 @@
 # Virtual Eye
-These virtual eyes can find their right place in a image and always are looking at your mouse cursor.
+These virtual eyes can find their right places on your desktop and always are looking at your mouse cursor.
 
 Requirements:
 
